@@ -1,9 +1,8 @@
 {
   "package": {
-    "name": "ezrafinones/web-test",
-    "version": "1.0.0",
+    "name": "KLabCyscorpions/deal-customer-server",
     "source": {
-      "url": "https://github.com/ezrafinones/web-test.git",
+      "url": "https://github.com/KLabCyscorpions/deal-customer-server.git",
       "type": "git",
       "reference": "master"
     },
