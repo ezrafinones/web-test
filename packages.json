@@ -1,0 +1,10 @@
+{
+  "package": {
+    "name": "ezrafinones/webtest",
+    "source": {
+      "url": "https://github.com/ezrafinones/web-test.git",
+      "type": "git",
+      "reference": "master"
+    }
+  }
+}
