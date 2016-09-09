@@ -1,6 +1,7 @@
 {
   "package": {
     "name": "KLabCyscorpions/deal-customer-server",
+    "version": "dev-master",
     "source": {
       "url": "https://github.com/KLabCyscorpions/deal-customer-server.git",
       "type": "git",
